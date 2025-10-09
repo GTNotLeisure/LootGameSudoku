@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "${modId}",
+    "name": "${modName}",
+		"description": "Math Game Sudoku",
+		"version": "${modVersion}",
+		"mcversion": "1.7.10",
+		"url": "https://github.com/ABKQPO/LootGameSudoku",
+		"authorList": ["HFstudio"],
+		"credits": "HFstudio",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": ["lootgames"],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+  }
+]

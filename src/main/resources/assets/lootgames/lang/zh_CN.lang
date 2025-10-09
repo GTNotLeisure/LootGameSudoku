@@ -1,0 +1,4 @@
+tile.lootgames.sdk_activator.name=数独
+tile.lootgames.sdk_master.name=数独
+Info_Sudoku_00=剩余：%d
+Info_Sudoku_01=上次点击时间：%d
